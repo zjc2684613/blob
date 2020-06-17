@@ -5,4 +5,5 @@ module.exports = {
     '/web/html/': require('../web/html/slide'),
     '/web/css/': require('../web/css/slide'),
     '/web/js/': require('../web/js/slide'),
+    '/resource/': require('../resource/slide'),
 }
