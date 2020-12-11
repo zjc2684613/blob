@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Jesse的博客',
     base: "/blog/",
-    description: '纸上得来终觉浅',
+    description: '文以载道,言为心声',
     head: [
         ['link', {rel: 'icon', href: '/logo.png'}]
     ],

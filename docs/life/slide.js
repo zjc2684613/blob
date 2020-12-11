@@ -1,6 +1,6 @@
 module.exports = [
     {
-        title: '测试目录',
+        title: '',
         collapsable: false,
         sidebarDepth: 2,
         children: ['test/']

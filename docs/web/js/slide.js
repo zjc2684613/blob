@@ -1,8 +1,8 @@
 module.exports = [
     {
-        title: '测试目录',
+        title: 'JavaScript',
         collapsable: false,
         sidebarDepth: 2,
-        children: ['test/']
+        children: ['test/','type-script/']
     },
 ]

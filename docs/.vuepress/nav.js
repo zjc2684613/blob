@@ -12,5 +12,5 @@ module.exports = [
     },
     { text: "node", link: "/node/" },
     { text: "android", link: "/android/" },
-    { text: "生活", link: "/life/" },
+    { text: "工作", link: "/life/" },
 ]
